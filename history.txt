@@ -1,0 +1,1000 @@
+  131  ls
+  132  git remote add https://github.com/DawnDesign7/cookie-recipe.git
+  133  cd cookie-recipe
+  134  git remote add https://github.com/DawnDesign7/cookie-recipe.git
+  135  atom .
+  136  git status
+  137  git add .
+  138  git commit
+  139  git status
+  140  git add .
+  141  git commit -m "Fix spacing error"
+  142  git add .
+  143  git commit -m "Fix tag placement error"
+  144  git status
+  145  git log
+  146  clear
+  147  ls
+  148  git status
+  149  git clone https://github.com/DawnDesign7/cookie-recipe.git
+  150  git clone https://github.com/jonnygovish/cookie-recipe
+  151  git push https://github.com/DawnDesign7/cookie-recipe.git
+  152  git status
+  153  git log
+  154  ls
+  155  cd Desktops
+  156  cd desktop
+  157  cd Desktop
+  158  mkdir my-first-website
+  159  cd my-first-website
+  160  pwd
+  161  git init
+  162  touch my-first-webpage.html
+  163  atom .
+  164  git add my-first-webpage.html
+  165  git commit -m "add initial page structure"
+  166  git add .
+  167  git commit -m "add exclamation mark"
+  168  git status
+  169  git log
+  170  touch my-favorite things.html
+  171  ls
+  172  mkdir images
+  173  ls
+  174  rm things.html
+  175  rm my-favorite
+  176  ls
+  177  touch my-favourite-things.html
+  178  ls
+  179  cd my-favourite-things.html
+  180  atom .
+  181  git status
+  182  git add .
+  183  git commit -m "Add new file, Add paragraph block elements to the page"
+  184  git add my-first-webpage.html
+  185  git commit -m"add header block elements"
+  186  git add my-first webpage.html
+  187  git add my-first-website.html
+  188  git add my-first-webpage.html
+  189  git commit -m "add list elements"
+  190  git status
+  191  git remote add DMN https://github.com/DawnDesign7/my-first-webpage.git
+  192  git push DMN master
+  193  free
+  194  cd Desktop
+  195  ls
+  196  cd my-first-website
+  197  ls
+  198  git add my-favourite things
+  199  git add my-favourite-things.html
+  200  git log
+  201  git init
+  202  git status
+  203  git add my-favourite-things.html
+  204  git commit -m "create unordered and ordered lists"
+  205  git remote add origin https://github.com/DawnDesign7/my-favourite-things.git
+  206  git push -u origin main
+  207  git branch -M main
+  208  git push -u origin main
+  209  free
+  210  git remote -v
+  211  git log
+  212  git remote -v
+  213  atom .
+  214  git init
+  215  git add my-first-webpage.html
+  216  git status
+  217  git commit -m " Add link to Moringa School"
+  218  free
+  219  git status
+  220  git add images/
+  221  git status
+  222  git add my-first-webpage.html
+  223  git commit -m "Add links and image"
+  224  git status
+  225  free
+  226  git push
+  227  git status
+  228  git add my-favourite-things.html
+  229  git add images
+  230  git status
+  231  git commit -m "Add images of my favourite things"
+  232  git status
+  233  git push
+  234  git status
+  235  git add index.html
+  236  git add css/
+  237  git commit -m " Rename file to index.html Add css file"
+  238  git push
+  239  git status
+  240  git rm my-first-webpage.html
+  241  git status
+  242  git commit -m "delete html file"
+  243  git push
+  244  git status
+  245  git add css/
+  246  git status
+  247  git add index.html my-favourite-things.html
+  248  git status
+  249  git commit -m " Add stylesheet changes"
+  250  git push
+  251  git status
+  252  free
+  253  git branch gh-pages
+  254  git push origin gh-pages
+  255  ls
+  256  cd moringa-school-projects
+  257  mkdir branching-test-project
+  258  cd branching-test-project
+  259  pwd
+  260  hit init
+  261  git init
+  262  touch branching-website.html
+  263  atom .
+  264  git status
+  265  git add branching-website.html
+  266  git status
+  267  git commit -m "Add initial HTML file with explanation of branching practice site."
+  268  git log
+  269  touch css/styles.css
+  270  git add
+  271  git add .
+  272  git commit -m "Create stylesheet, link in head of website."
+  273  git add css/sytle.css
+  274  git add css/styles.css
+  275  git commit -m "Add CSS rule to make H1 headers blue."
+  276  git log
+  277  git branch
+  278  git branch blue_theme
+  279  git branch
+  280  git checkout blue_theme
+  281  git branch
+  282  git log
+  283  git add css/styles.css
+  284  git commit -m "Add styles to h1, h2, p, and body to fit blue theme."
+  285  git log
+  286  git checkout master
+  287  git branch
+  288  git log
+  289  git branch
+  290  git branch red_theme
+  291  git branch
+  292  git checkout red_theme
+  293  git branch
+  294  git log
+  295  git add css/styles.css
+  296  git commit -m "Add styles to h1, h2, p, and body to fit red theme."
+  297  git log
+  298  git commit -m "Make all font sans-serif style."
+  299  git add css/styles.css
+  300  git commit -m "Make all font sans-serif style."
+  301  git log
+  302  git branch
+  303  git checkout master
+  304  git branch
+  305  git merge red_theme
+  306  git log
+  307  git branch -D red_theme
+  308  git branch
+  309  git branch -D blue_theme
+  310  git branch
+  311  clear
+  312  cd ..
+  313  mkdir resort-website
+  314  cd resort-website
+  315  touch index.html accomodations.html activities.html travel.html contact.html pictures.html
+  316  ls
+  317  git init
+  318  git status
+  319  git add resort-website/
+  320  git add resort website
+  321  git add accomodations.html
+  322  activities.html
+  323  contact.html
+  324  index.html
+  325  pictures.html
+  326  travel.htmlclear
+  327  clear
+  328  ls
+  329  git status
+  330  git add activities.html contact.html index.html pictures.html travel.html 
+  331  git status
+  332  git branch
+  333  git branch ocean_theme safari_theme
+  334  git branch
+  335  clear
+  336  ls
+  337  branch
+  338  git branch
+  339  atom .
+  340  cd ..
+  341  touch test
+  342  ls 
+  343  rm tes
+  344  rm test
+  345  ls
+  346  mkdir test
+  347  cd test
+  348  touch test.html
+  349  atom .
+  350  rm test.html
+  351  ls
+  352  rm css
+  353  cd ..
+  354  rm -rf test
+  355  ls
+  356  free
+  357  atom .
+  358  mkdir images
+  359  ls
+  360  cd css
+  361  ls
+  362  cd ..
+  363  git status
+  364  git add index.html
+  365  git commit -m " Create a landing page"
+  366  git status
+  367  git add accomodations.html
+  368  git commit -m "add accommodations page"
+  369  git log
+  370  git branch
+  371  git branch ocean_theme
+  372  git branch
+  373  git status
+  374  git add index.html
+  375  git commit -m "add links to other pages"
+  376  git status
+  377  git add css/
+  378  git commit -m "add stylesheet"
+  379  git log
+  380  git push 
+  381  git push https://github.com/DawnDesign7/resort-website.git
+  382  git push --set-upstream https://github.com/DawnDesign7/resort-website.git master
+  383  mkdir thursday
+  384  cd thursday
+  385  atom .
+  386  ls
+  387  atom .
+  388  cd Documents
+  389  cd moringa-school-projects
+  390  ls
+  391  mkdir PortfolioIP
+  392  ls
+  393  cd PortfolioIP
+  394  git init
+  395  touch .gitignore
+  396  touch README.md
+  397  ls
+  398  ls-A
+  399  atom .
+  400  git status
+  401  git add .gitignore
+  402  git commit -m "Initial commit for gitignore file"
+  403  git status
+  404  git add README.md
+  405  git commit -m "Initial commit for ReadMe file"
+  406  git status
+  407  git remote add origin https://github.com/DawnDesign7/my-portfolio.git
+  408  git branch -M master
+  409  git push -u origin master
+  410  ls
+  411  git status
+  412  ls
+  413  atom .
+  414  cd Documents
+  415  cd moringa-school-projects
+  416  cd PortfolioIP
+  417  ls
+  418  git status
+  419  git push
+  420  git pull https://github.com/DawnDesign7/my-portfolio
+  421  cd Documents
+  422  cd moringa-school-projects
+  423  cd PortfolioIP
+  424  git status
+  425  git log
+  426  cd Documents
+  427  ls
+  428  cd PortfolioIP
+  429  git status
+  430  git branch
+  431  git branch gh-pages
+  432  git status
+  433  git branch
+  434  git push 
+  435  git checkout gh-pages
+  436  git branc
+  437  git branch
+  438  atom .
+  439  git push origin gh-pages
+  440  git status
+  441  git push
+  442  git checkout masster
+  443  git checkout master
+  444  git checkout gh-pages
+  445  git checkout master
+  446  sudo apt install testdisk
+  447  sudo dpkg -l testdisk
+  448  #testdisk
+  449  # testdisk
+  450  cd Documents
+  451  cd moringa-school-projects
+  452  cd PortfolioIP
+  453  atom .
+  454  git branch
+  455  git checkout gh-pages
+  456  git branch
+  457  git checkout gh-pages
+  458  git branch color
+  459  git branch
+  460  git checkout color
+  461  atom .
+  462  git status
+  463  git push
+  464  git log
+  465  git branch
+  466  git branch gh-pages
+  467  git branch
+  468  git push
+  469  git checkout gh-pages
+  470  git push 
+  471  git push gh-pages
+  472  git add gh-pages
+  473  git push --set-upstream gh-pages 
+  474  git branch
+  475  git status 
+  476  git push remote origin
+  477  git push
+  478  git push origin gh-pages
+  479  git push main gh-pages
+  480  git push master gh-pages
+  481  $ git push -u origin gh-pages
+  482  git -d gh-pages
+  483  git branch -d gh-pages
+  484  clear
+  485  gh branch
+  486  git branch
+  487  git push -u origin gh-pages
+  488  git remote -v
+  489  git remote -v origin https://github.com/DawnDesign7/resort-website/branches
+  490  git push
+  491  git remote add gh-pages https://github.com/DawnDesign7/resort-website/branches
+  492  git push
+  493  git branches
+  494  git branch
+  495  git checkout master
+  496  git status
+  497  git checkout gh-pages
+  498  git push
+  499  git branch
+  500  git checkout master
+  501  git branch -d gh-pages
+  502  git branch
+  503  git branch gh-pages
+  504  git branch
+  505  git checkout gh-pages
+  506  git status
+  507  git log
+  508  git push
+  509  git remote add resort-website https://github.com/DawnDesign7/resort-website
+  510  git push gh-pages
+  511  git push --set-upstream gh-pages
+  512  git push --set-upstream origin gh-pages
+  513  cd Documents
+  514  cd moringa-school-projects
+  515  cd PortfolioIP
+  516  git status
+  517  git push color
+  518  git push
+  519  git push --set-upstream origin color
+  520  git branch 
+  521  git checkout master
+  522  git merge color
+  523  git commit master
+  524  git branch
+  525  git status
+  526  git branch -d gh-pages
+  527  git push origin
+  528  git branch
+  529  clear
+  530  git branches
+  531  git branch
+  532  git status
+  533  git branch gh-pages
+  534  git branch
+  535  git status
+  536  git checkout gh-pages
+  537  git status
+  538  git push
+  539  git push --set-upstream origin gh-pages
+  540  atom
+  541  atom .
+  542  git branch -d gh-pages
+  543  git checkout master
+  544  git branch d- gh-pages
+  545  git branch -d gh-pages
+  546  git branch
+  547  git -d d-
+  548  mkdir resort-website
+  549  cd resort-website
+  550  git init
+  551  git clone https://github.com/DawnDesign7/resort-website.git
+  552  git branch
+  553  atom .
+  554  touch index.html
+  555  mkdir css
+  556  cd css
+  557  cd .
+  558  cd ..
+  559  atom .
+  560  cd Documents
+  561  cd moringa-school-projects
+  562  mkdir calculator
+  563  cd calculator
+  564  git init
+  565  mkdir css js
+  566  ls
+  567  cd js
+  568  touch scripts.js
+  569  atom .
+  570  cd ..
+  571  touch index.html
+  572  ls
+  573  touch README.md
+  574  atom .
+  575  git remote add origin https://github.com/DawnDesign7/calculator.git
+  576  git branch -M main
+  577  git push -u origin main
+  578  git remote add origin https://github.com/DawnDesign7/calculator.git
+  579  git branch master
+  580  git branch -M main
+  581  git push -u origin main
+  582  git status
+  583  git log
+  584  git status
+  585  git log
+  586  cd Documents
+  587  cd moringa-school-projects
+  588  mkdir bmi-calculator
+  589  cd bmi-calulator
+  590  cd bmi-calculator
+  591  mkdir css js
+  592  ls
+  593  touch index.html
+  594  cd js
+  595  touch scripts.js
+  596  ls
+  597  cd ..
+  598  cd css
+  599  cd ..
+  600  atom
+  601  atom .
+  602  cd Documents
+  603  cd moringa-school-projects
+  604  ls
+  605  mkdir akan-birthday-calculator
+  606  cd akan-birthday-calculator
+  607  mkdir css js
+  608  ls
+  609  touch index.html README.md
+  610  ls
+  611  cd css
+  612  touch style.css
+  613  cd ..
+  614  cd js
+  615  touch script.js
+  616  ls
+  617  cd ..
+  618  git init
+  619  atom .
+  620  git status
+  621  git push
+  622  git status
+  623  git branch
+  624  git branch -d gh-pages
+  625  git branch
+  626  git push
+  627  mkdir jquery
+  628  cd jquery
+  629  mkdir css js img
+  630  ls
+  631  cd js
+  632  touch script.js
+  633  cd..
+  634  cd ..
+  635  touch index.html
+  636  atom .
+  637  git init
+  638  cd Documents
+  639  cd moringa-school-projects
+  640  mkdir delani-studio
+  641  cd delani-studio
+  642  mkdir css js static
+  643  touch index.html README.md .gitignore
+  644  ls
+  645  cd static
+  646  mkdir assets
+  647  cd ..
+  648  git init
+  649  atom .
+  650  git status
+  651  cd Documents
+  652  cd moringa-school-projects
+  653  cd delani-studio
+  654  git status
+  655  git branch
+  656  git checkout master
+  657  git fetch
+  658  git merge gh-pages
+  659  git status
+  660  atom .
+  661  cd Documents
+  662  cd moringa-school-projects
+  663  cd delani-studio
+  664  git status
+  665  git push
+  666  git branch
+  667  git checkout master
+  668  git fetch
+  669  git pull
+  670  git merge gh-pages
+  671  git push
+  672  git branch
+  673  git checkout gh-pages
+  674  git merge master
+  675  git status
+  676  git push
+  677  git  branch
+  678  git pull
+  679  git branch
+  680  git status
+  681  git add
+  682  git add js/script.js
+  683  git push
+  684  gant solutions.</p>
+  685  <br>
+  686  </html>
+  687  © 2021 GitHub, Inc.
+  688  Terms
+  689  Privacy
+  690  Security
+  691  Status
+  692  Help
+  693  Contact GitHub
+  694  Pricing
+  695  API
+  696  Training
+  697  Blog
+  698  About
+  699  cd Documents
+  700  cd moringa-school-projects
+  701  cd delani-studio
+  702  git status
+  703  git branch
+  704  git branch -d gh-pages
+  705  git branch
+  706  git branch gh-pages
+  707  git branch
+  708  git checkout gh-pages
+  709  cd Documents
+  710  cd moringa-school-projects
+  711  cd address-book
+  712  mkdir .git css js
+  713  ls
+  714  cd css
+  715  touch bootsrap.css styles.css
+  716  ls
+  717  cd ..
+  718  cd js
+  719  touch scripts.js
+  720  ls
+  721  cd ..
+  722  touch address-book.html README.md
+  723  ls
+  724  atom .
+  725  cd Documents/Moringa-school-projects/
+  726  cd Documents/moringa-school-projects/
+  727  mkdir GitCollab
+  728  git init
+  729  git clone https://github.com/DawnDesign7/GitCollab.git
+  730  atom .
+  731  cd Documents/moringa-school-projects/GitCollab/
+  732  git init
+  733  git clone https://github.com/DawnDesign7/GitCollab.git
+  734  git status
+  735  git branch
+  736  git remote add upstream https://github.com/Breens-Thomas/GitCollab.git
+  737  git fetch upstream
+  738  git branch
+  739  git merge upstream
+  740  git checkout -b development
+  741  git merge upstream/development
+  742  git fetch  upstream
+  743  git merge upstream/development
+  744  atom .
+  745  git status
+  746  git add index.html
+  747  git status
+  748  git push
+  749  git status
+  750  cd Documents/moringa-school-projects
+  751  mkdir pizza
+  752  cd pizza
+  753  echo "# pizza" >> README.md
+  754  git init
+  755  git add README.md
+  756  git commit -m "first commit"
+  757  git branch -M main
+  758  git remote add origin https://github.com/DawnDesign7/pizza.git
+  759  git push -u origin main
+  760  mkdir css js 
+  761  touch index.html
+  762  ls
+  763  atom .
+  764  cd Documents/moringa-school-projects/pizza
+  765  git status
+  766  git branch
+  767  git checkout main
+  768  git merge gh-pages
+  769  cd Documents/moringa-school-projects
+  770  mkdir Farmersmarket
+  771  cd Farmersmarket
+  772  git clone https://github.com/DawnDesign7/Farmers-market.git
+  773  atom .
+  774  git status
+  775  cd Farmers-market
+  776  git branch
+  777  git branch shop-page
+  778  git checkout shop-page
+  779  atom .
+  780  cd Documents/moringa-school-projects-Farmersmarket
+  781  cd Documents/moringa-school-projects/Farmersmarket
+  782  ls
+  783  cd Farmers-market
+  784  git status
+  785  git push 
+  786  git init
+  787  git clone https://github.com/DawnDesign7/30-Days-Of-JavaScript.git
+  788  sudo add-apt-repository ppa:micahflee/ppa
+  789  pwd
+  790  ls
+  791  cd Documents
+  792  cd
+  793  cd Desktop
+  794  cd ~
+  795  cd exercises
+  796  ls
+  797  mkdir somefile
+  798  cd somefile
+  799  touch another-file.html
+  800  ls
+  801  mv another-file.html first-file.html
+  802  ls
+  803  rm first-file.html
+  804  ls
+  805  cd ..
+  806  rm -r somefiles
+  807  rm -r somefile
+  808  ls
+  809  clear
+  810  pwd
+  811  cd
+  812  pwd
+  813  ls
+  814  cd Desktop
+  815  mkdir test
+  816  cd test
+  817  touch file1.html
+  818  touch file2.html
+  819  touch file3.html
+  820  ls
+  821  mkdir first-directory
+  822  mv file1.html first-directory/file1.html
+  823  cp file2.html file4.html
+  824  mv file3.html third-file.html
+  825  cd first-directory
+  826  rm file1.html
+  827  ls
+  828  cd ..
+  829  pwd
+  830  rm -r first-directory
+  831  ls
+  832  cd ..
+  833  rm -rf test
+  834  ls
+  835  clear
+  836  sudo aadd-apt-repository multiverse
+  837  sudo add-apt-repository multiverse
+  838  sudo aptupdate && sudo apt install ttf-mscorefonts-installer
+  839  sudo apt update && sudo apt install ttf-mscorefonts-installer
+  840  sudo fc-cache -f -v
+  841  git--version
+  842  git --version
+  843  git config --help
+  844  git -h
+  845  git config -h
+  846  atom .
+  847  ls
+  848  ls -la /dev/disk
+  849  ls -la /de/disk/by-id/
+  850  ls -la /de/disk
+  851  ls -la /dev/disk
+  852  ls
+  853  pwd
+  854  cd Documents
+  855  dpkg -l code
+  856  dpkg -s atom
+  857  dpkg -s code
+  858  cd Documents
+  859  mkdir Udacity
+  860  cd Udacity
+  861  touch notes.html
+  862  ls
+  863  cd-
+  864  cd~
+  865  cd..
+  866  cd ..
+  867  cd Documents
+  868  mkdir tech4dev
+  869  cd tech4dev
+  870  mkdir day1
+  871  cd day1
+  872  pwd
+  873  nc google.com 80
+  874  nslookup
+  875  cd..
+  876  cd ..
+  877  cd day1
+  878  mkdir assets
+  879  ls
+  880  cd ..
+  881  mkdir day2
+  882  cd day2
+  883  mkdir stylesheet
+  884  mkdir assets
+  885  ls
+  886  ls -force
+  887  ls --help
+  888  clear
+  889  ls /
+  890  ls -l
+  891  ls -l /
+  892  ls -la
+  893  pwd
+  894  cd ../Documents
+  895  ls
+  896  cd ../Desktop
+  897  cd Desktop
+  898  cd ..
+  899  cd ../tech4dev
+  900  ls
+  901  history
+  902  cd documents/
+  903  cd Documents
+  904  pwd
+  905  cd ../Downloads
+  906  cd ..
+  907  mkdir GADS
+  908  cd GADS
+  909  touch index.html
+  910  sudo apt install gimp
+  911  sudo parted -l
+  912  df -h
+  913  top
+  914  uptime
+  915  lsof
+  916  update
+  917  sudo apt update
+  918  apt list --upgradable
+  919  sudo apt upgrade
+  920  service ntp status
+  921  pkg install node
+  922  sudo apt install node
+  923  sudo apt install nodejs
+  924  sudo apt install git
+  925  cd .
+  926  cd ..
+  927  mkdir Umuzi
+  928  ls
+  929  cd
+  930  cd Umuzi
+  931  ls
+  932  cd Documents
+  933  cd Umuzi
+  934  touch important.md
+  935  code
+  936  cd Documents/Umuzi
+  937  code important.md
+  938  ls
+  939  ls-l
+  940  ls -l
+  941  ls /Documents
+  942  ls ?Downloads
+  943  ls /Downloads
+  944  ls /Downloads/
+  945  ls Documents
+  946  ls Documents/GADS
+  947  pwd
+  948  mkdir -p Documents/Umuzi/practice/practice.html
+  949  ls Documents/umuzi
+  950  ls Documents/Umuzi
+  951  ls Documents/Umuzi/practice
+  952  ls -R
+  953  ls -l -t
+  954  ls -l -t -r
+  955  ls -lh
+  956  man ls
+  957  echo dawn
+  958  cd ~
+  959  cd Documents/Umuzi
+  960  mkdir exercises/git-basic-exercises
+  961  mkdir ecercises 
+  962  cd exercises
+  963  rm ecercises
+  964  rmdir ecercises
+  965  rmdir git-basic-exercises
+  966  rmdir -r git-basic-exercises
+  967  rmdir git-basic-exercises -r
+  968  rmdir --help
+  969  rm -r git-basic-exercises
+  970  ls
+  971  mkdir git-basic-exercises
+  972  cd git-basic-exercises
+  973  ls -a
+  974  git init
+  975  ls -a
+  976  git status
+  977  touch README.md
+  978  ls -a
+  979  git status
+  980  git log
+  981  git add README.md
+  982  git status
+  983  git add README.md
+  984  git commit -m "initial commit"
+  985  git log
+  986  nano README.md
+  987  cat README.md
+  988  git status
+  989  git add README.md 
+  990  git commit -m "third commit"
+  991  git log
+  992  cd .
+  993  cd 
+  994  cd Document/Umuzi
+  995  cd Documents/Umuzi/
+  996  rm -r git-basic-exercises
+  997  y
+  998  cd Documents/Umuzi
+  999  mkdir git-basic-exercises
+ 1000  cd git-basic-exercises
+ 1001  ls -a
+ 1002  git init
+ 1003  ls -a
+ 1004  git status
+ 1005  touch README.md
+ 1006  ls -a
+ 1007  git status
+ 1008  git log
+ 1009  git add
+ 1010  git add README.md
+ 1011  git status
+ 1012  git rm --cached README.md
+ 1013  git status
+ 1014  git add README.md
+ 1015  git commit -m "initial commit"
+ 1016  git log
+ 1017  nano README.md
+ 1018  cat README.md
+ 1019  git status
+ 1020  git commit -m "second commit"
+ 1021  git add README.md
+ 1022  git commit -m "second commit"
+ 1023  git log
+ 1024  nano README.md
+ 1025  cat README.md
+ 1026  git add README.md
+ 1027  git commit -m "third commit"
+ 1028  git log
+ 1029  git checkout commit e551e9db4638a8451076d414c7a856a9734bc197
+ 1030  git checkout e551e9db4638a8451076d414c7a856a9734bc197
+ 1031  cat README.md
+ 1032  git checkout master
+ 1033  cat README.md
+ 1034  git branch milkshake-flavours
+ 1035  git branch
+ 1036  git checkout milkshake-flavours
+ 1037  git branch
+ 1038  nano milkshake.md
+ 1039  git status
+ 1040  git add milkshake.md
+ 1041  git commit -m "added initial flavours"
+ 1042  git log
+ 1043  git checkout master
+ 1044  git branch history
+ 1045  git checkout history
+ 1046  git log
+ 1047  history > history.txt
+ 1048  ls
+ 1049  git add history
+ 1050  git add history.txt
+ 1051  git commit -m "added history" 
+ 1052  git log
+ 1053  git checkout milkshake-flavours
+ 1054  git log
+ 1055  nano README.md
+ 1056  git add README.md
+ 1057  git commit -m "random readme changes"
+ 1058  cat REAdME.md
+ 1059  cat README.md
+ 1060  git checkout history
+ 1061  cat README.md
+ 1062  rm README.md
+ 1063  echo "booya" > README.md
+ 1064  git add README.md
+ 1065  git commit -m "rewrote readme"
+ 1066  cat README.md
+ 1067  git checkout master
+ 1068  cat README.md
+ 1069  ls
+ 1070  git log
+ 1071  git checkout milkshake-flavours
+ 1072  ls
+ 1073  git log
+ 1074  git checkout history
+ 1075  ls
+ 1076  git log
+ 1077  git checkout master
+ 1078  git merge milkshake-flavours
+ 1079  ls
+ 1080  git log
+ 1081  cat README.md
+ 1082  git merge history
+ 1083  git branch
+ 1084  git checkout history
+ 1085  cd Documents/umuzi/
+ 1086  cd Documents/Umuzi/
+ 1087  mkdir git-basic-exercises
+ 1088  cd git-basic-exercises
+ 1089  ls -a
+ 1090  git init
+ 1091  ls -a
+ 1092  git status
+ 1093  touch README.md
+ 1094  ls -a
+ 1095  git status
+ 1096  git log
+ 1097  git add README.md
+ 1098  git status
+ 1099  git commit -m "initial commit"
+ 1100  git log
+ 1101  nano README.md
+ 1102  cat README.md
+ 1103  git status
+ 1104  git add README.md
+ 1105  git commit -m "second commit"
+ 1106  nano README.md
+ 1107  cat README.md
+ 1108  git add README.md
+ 1109  git commit -m "third commit"
+ 1110  git log
+ 1111  git checkout 29ac5bfc0da2e812689fb28403af3a31f6ae3aba
+ 1112  cat README.md
+ 1113  git checkout master
+ 1114  cat README.md
+ 1115  git branch
+ 1116  git branch milkshake-flavours
+ 1117  git branch
+ 1118  git checkout milkshake-flavours
+ 1119  nano milkshakes.md
+ 1120  git status
+ 1121  git add milkshakes.md
+ 1122  git commit -m "added initial flavours"
+ 1123  git log
+ 1124  git checkut master
+ 1125  git checkout master
+ 1126  git branch history
+ 1127  git checkout history
+ 1128  git log
+ 1129  git branch
+ 1130  history > history.txt
