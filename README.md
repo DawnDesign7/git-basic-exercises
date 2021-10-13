@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ABCD
 EFGH
 IJKL
@@ -7,6 +6,4 @@ IJKL
 Apples
 Bananas
 Fruits
-=======
 booya
->>>>>>> history
